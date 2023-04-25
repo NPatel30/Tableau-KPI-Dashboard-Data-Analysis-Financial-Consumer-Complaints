@@ -1,11 +1,4 @@
 # Financial Consumer Complaints Data Analysis Using Tableau Dashboard
-
-![Financial_Complaints_KPI_Analysis_Project (2)]
-
-Lets Connect 
-
-
-
 Financial Consumer Complaints Data Analysis Using Tableau Dashboard - A Complete KPI Analysis Project
 
 ## ABOUT PROJECT:
